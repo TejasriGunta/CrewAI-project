@@ -1,0 +1,5 @@
+crewai
+python-dotenv
+python-docx
+pypdf
+streamlit
