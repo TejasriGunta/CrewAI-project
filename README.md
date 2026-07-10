@@ -66,9 +66,3 @@ This isn't a claim that prompt injection is fully solved (it isn't, industry-wid
 - **Streamlit** for the UI
 - **python-docx** for parsing `.docx` resumes
 
-## Possible next steps
-
-- Extract candidate name from the resume automatically instead of using a placeholder in exported documents
-- OCR support for scanned/image-based PDF resumes
-- Swap the heuristic injection screen for a small classifier model for better recall
-- Add richer `.docx` formatting (headings per CV section, bullet lists for skills/experience) instead of plain paragraphs
